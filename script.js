@@ -1,0 +1,1 @@
+console.log('Emad\'s Emporium Loaded');
